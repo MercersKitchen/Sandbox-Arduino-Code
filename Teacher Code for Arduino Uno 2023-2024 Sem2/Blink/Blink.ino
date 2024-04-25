@@ -25,7 +25,7 @@
 int blinkTime=1000; //Parameter: milliseconds 
 //Change this value to ensure new program is being uploaded
 //
-//const int led = 13; //Exemplar instead of key variable
+//const int led = 14; //Exemplar instead of key variable
 //
 // the setup function runs once when you press reset or power the board
 void setup() {
