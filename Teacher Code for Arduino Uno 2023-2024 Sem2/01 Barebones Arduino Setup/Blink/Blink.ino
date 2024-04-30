@@ -22,7 +22,7 @@
   https://www.arduino.cc/en/Tutorial/BuiltInExamples/Blink
 */
 //Global Variables
-int blinkTime=1000; //Parameter: milliseconds 
+int blinkTime=2000; //Parameter: milliseconds 
 //Change this value to ensure new program is being uploaded
 //
 //const int led = 14; //Exemplar instead of key variable
